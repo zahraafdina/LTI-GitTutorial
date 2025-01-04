@@ -107,10 +107,10 @@ Here, you can insert your repository to your own GitHub account, or you can push
 
 #### 🟡 「８」
 
-- [Full Name](https://www.google.com) `[S.E. Internship Member of LTI, 2024/2025]`
+- [Zahra Afdina](https://github.com/zahraafdina) `[S.E. Internship Member of LTI, 2024/2025]`
 
-> [DESCRIPTION]  
->> `Project Link:` [Project Title](https://www.google.com)
+> Zahra's LTI Project
+>> `Project Link:` [zahra_magang_LTI](https://github.com/zahraafdina/zahra_magang_LTI.git)
 
 #### 🟡 「９」
 
